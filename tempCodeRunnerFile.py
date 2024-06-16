@@ -1,0 +1,1 @@
+print(reg.predict(X_test))
